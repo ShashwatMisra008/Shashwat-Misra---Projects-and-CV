@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-Results-driven **Data Analyst** with over 5 years of professional experience spanning data analytics, sales enablement, financial advisory, and operational management[cite: 1]. I specialize in transforming complex sales, marketing, operational, and financial datasets into actionable business insights[cite: 1]. Highly proficient in **SQL, Python (Pandas, NumPy), Tableau, Power BI, and Advanced Excel**, with a robust track record of building automated dashboards, optimizing reporting workflows, and driving measurable impacts such as **34% revenue growth, 25% operational efficiency improvements, and 18% enhancements in customer retention**[cite: 1].
+Results-driven **Data Analyst** with over 5 years of professional experience spanning data analytics, sales enablement, financial advisory, and operational management. I specialize in transforming complex sales, marketing, operational, and financial datasets into actionable business insights. Highly proficient in **SQL, Python (Pandas, NumPy), Tableau, Power BI, and Advanced Excel**, with a robust track record of building automated dashboards, optimising reporting workflows, and driving measurable impacts such as **34% revenue growth, 25% operational efficiency improvements, and 18% enhancements in customer retention**.
 
 ---
 
@@ -42,17 +42,21 @@ Results-driven **Data Analyst** with over 5 years of professional experience spa
 ---
 
 ### 🏆 Key Achievements & Impact
-* **Revenue & Growth:** Achieved 34% revenue growth through data-backed portfolio allocation and strategic investment recommendations[cite: 1].
-* **Efficiency & Automation:** Enhanced reporting speeds by 40% and boosted overall team operational efficiency by 25% via automated dashboards and workflow optimization[cite: 1].
-* **Retention & Workforce Analytics:** Improved customer retention visibility and effectiveness by up to 18%-30%[cite: 1], while cutting operational absenteeism by 15% through attendance analytics[cite: 1].
+* **Revenue & Growth:** Achieved 34% revenue growth through data-backed portfolio allocation and strategic investment recommendations.
+* **Efficiency & Automation:** Enhanced reporting speeds by 40% and boosted overall team operational efficiency by 25% via automated dashboards and workflow optimisation.
+* **Retention & Workforce Analytics:** Improved customer retention visibility and effectiveness by up to 18%-30%, while cutting operational absenteeism by 15% through attendance analytics.
+* **Partner & Sales Management:** Managed high-volume sales pipelines, coordinated end-to-end veterinary partner onboarding, and executed lead-generation campaigns.
+* **Portfolio & Compliance Control:** Optimised investment portfolios worth ₹17 crore and maintained 100% statutory compliance accuracy across payroll and financial reporting for over 100 employees.
 
 ---
 
-### 📜 Certifications
-* **Master's Certification in Data Analytics** – *Simplilearn*[cite: 1]
-* **Data Science (Pursuing)** – *PW Skills*[cite: 1]
-* **Certification in Web Page Designing** – *Disha Computer Institute*[cite: 1]
-* **C & C++ Certification** – *Universal Network of InfoTech*[cite: 1]
+### 📜 Certifications & Education
+* **MBA - Marketing, Operations & Analytics** – *IMT Hyderabad (2017–2019)*
+* **Bachelor of Engineering - E&TC** – *ISB&M College of Technology, Pune (2012–2016)*
+* **Master's Certification in Data Analytics** – *Simplilearn*
+* **Data Science (Pursuing)** – *PW Skills*
+* **Certification in Web Page Designing** – *Disha Computer Institute*
+* **C & C++ Certification** – *Universal Network of InfoTech*
 
 ---
 
