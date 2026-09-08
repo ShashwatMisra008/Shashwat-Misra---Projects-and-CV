@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Data%20Analyst%20%7C%20Executive%20Insights&fontSize=24&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Shashwat Misra 👋</h1>
-<h3 align="center">Data Analyst | Turning raw data into executive insights</h3>
+<h3 align="center">Turning raw data into executive business intelligence</h3>
 
 <p align="center">
   <a href="mailto:shashwat.008@gmail.com"><img src="https://img.shields.io/badge/Email-shashwat.008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -9,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-Results-driven **Data Analyst** with over 5 years of professional experience spanning data analytics, sales enablement, financial advisory, and operational management. I specialize in transforming complex sales, marketing, operational, and financial datasets into actionable business insights. Highly proficient in **SQL, Python (Pandas, NumPy), Tableau, Power BI, and Advanced Excel**, with a robust track record of building automated dashboards, optimising reporting workflows, and driving measurable impacts such as **34% revenue growth, 25% operational efficiency improvements, and 18% enhancements in customer retention**.
+Results-driven **Data Analyst** with over 5 years of professional experience spanning data analytics, sales enablement, financial advisory, and operational management[cite: 1]. I specialize in transforming complex sales, marketing, operational, and financial datasets into actionable business insights[cite: 1]. Highly proficient in **SQL, Python (Pandas, NumPy), Tableau, Power BI, and Advanced Excel**, with a robust track record of building automated dashboards, optimizing reporting workflows, and driving measurable impacts such as **34% revenue growth, 25% operational efficiency improvements, and 18% enhancements in customer retention**[cite: 1].
 
 ---
 
@@ -35,28 +39,29 @@ Results-driven **Data Analyst** with over 5 years of professional experience spa
 
 * **[Amazon E-Commerce Executive Intelligence Hub](https://github.com/ShashwatMisra008/Amazon-E-Commerce-data-Analysis---Live-Dashboard)**  
   * **Tech Stack:** Python, Streamlit, Pandas, Plotly Express  
-  * **Overview:** Transforms 175,000+ records into executive-level GMV performance, brand matrices, and diagnostic insights. ([Live App Link](https://amazon-e-commerce-data-analysis---live-dashboard-ejfcuxjnxrfky.streamlit.app/))
+  * **Overview:** Transforms 175,000+ records into executive-level GMV performance, brand matrices, and diagnostic insights.  
+  * [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amazon-e-commerce-data-analysis---live-dashboard-ejfcuxjnxrfky.streamlit.app/)
   
 *(More production projects coming soon...)*
 
 ---
 
 ### 🏆 Key Achievements & Impact
-* **Revenue & Growth:** Achieved 34% revenue growth through data-backed portfolio allocation and strategic investment recommendations.
-* **Efficiency & Automation:** Enhanced reporting speeds by 40% and boosted overall team operational efficiency by 25% via automated dashboards and workflow optimisation.
-* **Retention & Workforce Analytics:** Improved customer retention visibility and effectiveness by up to 18%-30%, while cutting operational absenteeism by 15% through attendance analytics.
-* **Partner & Sales Management:** Managed high-volume sales pipelines, coordinated end-to-end veterinary partner onboarding, and executed lead-generation campaigns.
-* **Portfolio & Compliance Control:** Optimised investment portfolios worth ₹17 crore and maintained 100% statutory compliance accuracy across payroll and financial reporting for over 100 employees.
+* **Revenue & Growth:** Achieved 34% revenue growth through data-backed portfolio allocation and strategic investment recommendations[cite: 1].
+* **Efficiency & Automation:** Enhanced reporting speeds by 40% and boosted overall team operational efficiency by 25% via automated dashboards and workflow optimization[cite: 1].
+* **Retention & Workforce Analytics:** Improved customer retention visibility and effectiveness by up to 18%-30%[cite: 1], while cutting operational absenteeism by 15% through attendance analytics[cite: 1].
+* **Partner & Sales Management:** Managed high-volume sales pipelines, coordinated end-to-end veterinary partner onboarding, and executed lead-generation campaigns[cite: 1].
+* **Portfolio & Compliance Control:** Optimized investment portfolios worth ₹17 crore[cite: 1] and maintained 100% statutory compliance accuracy across payroll and financial reporting for over 100 employees[cite: 1].
 
 ---
 
 ### 📜 Certifications & Education
-* **MBA - Marketing, Operations & Analytics** – *IMT Hyderabad (2017–2019)*
-* **Bachelor of Engineering - E&TC** – *ISB&M College of Technology, Pune (2012–2016)*
-* **Master's Certification in Data Analytics** – *Simplilearn*
-* **Data Science (Pursuing)** – *PW Skills*
-* **Certification in Web Page Designing** – *Disha Computer Institute*
-* **C & C++ Certification** – *Universal Network of InfoTech*
+* **MBA - Marketing, Operations & Analytics** – *IMT Hyderabad (2017–2019)*[cite: 1]
+* **Bachelor of Engineering - E&TC** – *ISB&M College of Technology, Pune (2012–2016)*[cite: 1]
+* **Master's Certification in Data Analytics** – *Simplilearn*[cite: 1]
+* **Data Science (Pursuing)** – *PW Skills*[cite: 1]
+* **Certification in Web Page Designing** – *Disha Computer Institute*[cite: 1]
+* **C & C++ Certification** – *Universal Network of InfoTech*[cite: 1]
 
 ---
 
