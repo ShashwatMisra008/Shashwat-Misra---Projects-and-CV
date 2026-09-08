@@ -13,24 +13,31 @@
 ---
 
 ### 👨‍💻 About Me
-Results-driven **Data Analyst** with over 5 years of professional experience spanning data analytics, sales enablement, financial advisory, and operational management[cite: 1]. I specialize in transforming complex sales, marketing, operational, and financial datasets into actionable business insights[cite: 1]. Highly proficient in **SQL, Python (Pandas, NumPy), Tableau, Power BI, and Advanced Excel**, with a robust track record of building automated dashboards, optimizing reporting workflows, and driving measurable impacts such as **34% revenue growth, 25% operational efficiency improvements, and 18% enhancements in customer retention**[cite: 1].
+Results-driven **Data Analyst** with 5+ years of professional experience across data analytics, sales enablement, financial advisory, and operational management. I specialise in transforming complex sales, marketing, operational, and financial datasets into actionable business insights. Highly proficient in **SQL, Python (Pandas, NumPy), Tableau, Power BI, and Advanced Excel**, with a robust track record of building automated dashboards, optimising reporting workflows, and driving measurable impacts such as **34% revenue growth, 25% operational efficiency improvements, and 18% enhancements in customer retention**.
 
 ---
 
 ### 🛠️ Tech Stack & Core Competencies
 
-**Languages & Databases:**
+**Languages & Core Libraries:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**BI, Visualization & Analytics:**
+**BI, Visualisation, Databases & Tools:**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -47,21 +54,25 @@ Results-driven **Data Analyst** with over 5 years of professional experience spa
 ---
 
 ### 🏆 Key Achievements & Impact
-* **Revenue & Growth:** Achieved 34% revenue growth through data-backed portfolio allocation and strategic investment recommendations[cite: 1].
-* **Efficiency & Automation:** Enhanced reporting speeds by 40% and boosted overall team operational efficiency by 25% via automated dashboards and workflow optimization[cite: 1].
-* **Retention & Workforce Analytics:** Improved customer retention visibility and effectiveness by up to 18%-30%[cite: 1], while cutting operational absenteeism by 15% through attendance analytics[cite: 1].
-* **Partner & Sales Management:** Managed high-volume sales pipelines, coordinated end-to-end veterinary partner onboarding, and executed lead-generation campaigns[cite: 1].
-* **Portfolio & Compliance Control:** Optimized investment portfolios worth ₹17 crore[cite: 1] and maintained 100% statutory compliance accuracy across payroll and financial reporting for over 100 employees[cite: 1].
+* **Revenue & Growth:** Achieved 34% revenue growth through data-backed portfolio allocation and strategic investment recommendations.
+* **Efficiency & Automation:** Enhanced reporting speeds by 40% and boosted overall team operational efficiency by 25% via automated dashboards and workflow optimisation.
+* **Retention & Workforce Analytics:** Improved customer retention visibility and effectiveness by up to 18%-30%, while cutting operational absenteeism by 15% through attendance analytics.
+* **Partner & Sales Management:** Managed high-volume sales pipelines, coordinated end-to-end veterinary partner onboarding, and executed lead-generation campaigns.
+* **Portfolio & Compliance Control:** Optimised investment portfolios worth ₹17 crore and maintained 100% statutory compliance accuracy across payroll and financial reporting for over 100 employees.
 
 ---
 
-### 📜 Certifications & Education
-* **MBA - Marketing, Operations & Analytics** – *IMT Hyderabad (2017–2019)*[cite: 1]
-* **Bachelor of Engineering - E&TC** – *ISB&M College of Technology, Pune (2012–2016)*[cite: 1]
-* **Master's Certification in Data Analytics** – *Simplilearn*[cite: 1]
-* **Data Science (Pursuing)** – *PW Skills*[cite: 1]
-* **Certification in Web Page Designing** – *Disha Computer Institute*[cite: 1]
-* **C & C++ Certification** – *Universal Network of InfoTech*[cite: 1]
+### 🎓 Education
+* **MBA - Marketing, Operations & Analytics** – *IMT Hyderabad (2017–2019)*
+* **Bachelor of Engineering - E&TC** – *ISB&M College of Technology, Pune (2012–2016)*
+
+---
+
+### 📜 Certifications
+* **Master's Certification in Data Analytics** – *Simplilearn*
+* **Data Science (Pursuing)** – *PW Skills*
+* **Certification in Web Page Designing** – *Disha Computer Institute*
+* **C & C++ Certification** – *Universal Network of InfoTech*
 
 ---
 
