@@ -36,25 +36,13 @@ Detail-oriented **Data Analyst** with over five years of experience transforming
 * Engineered a production-ready, interactive Streamlit web application processing **175,000+ records**.
 * Delivered CEO-level insights on GMV performance, brand concentration, and discount efficiency utilizing a multi-tab diagnostic (Issue → Effect → Cause → Solution) framework.
 
-#### 🔄 Customer Retention & Churn Prediction
-> **Tech Stack:** Python, Power BI
-* Conducted advanced churn prediction and customer retention analysis. 
-* Created dynamic Power BI dashboards to monitor customer health metrics, ultimately improving retention strategy effectiveness by **18%**.
-
-#### 📈 Marketing Performance & GTM Dashboard
-> **Tech Stack:** Tableau, SQL (MySQL)
-* Built an interactive Tableau dashboard connected to MySQL databases to visualize CTR, CAC, ROI, and conversion metrics in real-time.
-* Automated legacy data workflows, improving overall reporting efficiency by **40%**.
-
-#### 💼 Operational Sales Analytics
-> **Tech Stack:** Advanced Excel, Tableau, Power BI
-* Developed forecasting models and centralized KPI dashboards to identify revenue opportunities and automate corporate reporting workflows.
-* Analyzed workforce data to optimize scheduling, reducing absenteeism by **15%**.
-
 ---
 
 ### 📜 Certifications
+* **Data Science (Pursuing, June Batch)** – *PW Skills*
 * **Master's Certification in Data Analytics** – *Simplilearn*
+* **Certification in Web Page Designing** – *Disha Computer Institute*
+* **C & C++ Certification** – *Universal Network of InfoTech*
 
 ---
 
