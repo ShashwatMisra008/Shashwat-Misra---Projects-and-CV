@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-Detail-oriented **Data Analyst** with over five years of experience transforming complex operational, marketing, and financial datasets into actionable executive intelligence. I specialize in building end-to-end analytics pipelines and have a proven track record of driving measurable business outcomes—including generating a **34% revenue growth**, a **25% improvement in operational efficiency**, and a **40% enhancement in reporting speed**. 
+Detail-oriented **Data Analyst** with over five years of experience transforming complex operational, marketing, and financial datasets into actionable executive intelligence. I specialize in building end-to-end analytics pipelines and driving measurable business outcomes.
 
 ---
 
@@ -28,19 +28,29 @@ Detail-oriented **Data Analyst** with over five years of experience transforming
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Data & Business Analytics Capabilities:**
-* **Analytics & Strategy:** GTM Analytics, Marketing Analytics, Sales Performance Analytics, E-commerce Optimization.
-* **Reporting & Modeling:** KPI Reporting & Dashboard Development, Forecasting & Predictive Analytics, Budgeting.
-* **Customer & Operations:** Customer Retention Analytics, Process Optimization, Data Cleaning & Transformation.
+---
+
+### 🚀 1. Flagship Portfolio Projects
+*Production-ready, end-to-end applications built for business impact.*
+
+* **[Amazon E-Commerce Executive Intelligence Hub](https://github.com/ShashwatMisra008/Amazon-E-Commerce-data-Analysis---Live-Dashboard)**  
+  * **Tech Stack:** Python, Streamlit, Pandas, Plotly Express  
+  * **Overview:** Transforms 175,000+ records into executive-level GMV performance, brand matrices, and diagnostic insights. ([Live App Link](https://amazon-e-commerce-data-analysis---live-dashboard-ejfcuxjnxrfky.streamlit.app/))
 
 ---
 
-### 🚀 Featured Portfolio Projects
+### 📚 2. PW Skills Data Science Track
+*Structured modules, case studies, and notebooks from my professional upskilling.*
 
-#### 🛒 [Amazon E-Commerce Executive Intelligence Hub](https://amazon-e-commerce-data-analysis---live-dashboard-ejfcuxjnxrfky.streamlit.app/)
-> **Tech Stack:** Python, Streamlit, Pandas, Plotly Express
-* Engineered a production-ready, interactive Streamlit web application processing **175,000+ records**.
-* Delivered CEO-level insights on GMV performance, brand concentration, and discount efficiency utilizing a multi-tab diagnostic (Issue → Effect → Cause → Solution) framework.
+* **[PW-Skills-Data-Science-Portfolio](https://github.com/ShashwatMisra008)** *(Will populate as you add coursework)*
+  * **Focus Areas:** Advanced Python, Exploratory Data Analysis (EDA), Statistics, and Machine Learning.
+
+---
+
+### 🛠️ 3. Add-On Practice & Skill Labs
+*Targeted practice sets, SQL query repositories, and technical sandbox exercises.*
+
+* **SQL & Excel Practice Repositories:** Includes your `SQL-Retail-Sales-Analytics`, `Corporate-Sales-Excel-Dashboard`, and `Excel---Sales-Dataset` repositories.
 
 ---
 
