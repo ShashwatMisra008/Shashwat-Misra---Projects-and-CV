@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-Detail-oriented **Data Analyst** with over five years of experience transforming complex operational, marketing, and financial datasets into actionable executive intelligence. I specialize in building end-to-end analytics pipelines and driving measurable business outcomes.
+Results-driven **Data Analyst** with over 5 years of professional experience spanning data analytics, sales enablement, financial advisory, and operational management[cite: 1]. I specialize in transforming complex sales, marketing, operational, and financial datasets into actionable business insights[cite: 1]. Highly proficient in **SQL, Python (Pandas, NumPy), Tableau, Power BI, and Advanced Excel**, with a robust track record of building automated dashboards, optimizing reporting workflows, and driving measurable impacts such as **34% revenue growth, 25% operational efficiency improvements, and 18% enhancements in customer retention**[cite: 1].
 
 ---
 
@@ -30,35 +30,29 @@ Detail-oriented **Data Analyst** with over five years of experience transforming
 
 ---
 
-### 🚀 1. Flagship Portfolio Projects
+### 🚀 Flagship Portfolio Projects
 *Production-ready, end-to-end applications built for business impact.*
 
 * **[Amazon E-Commerce Executive Intelligence Hub](https://github.com/ShashwatMisra008/Amazon-E-Commerce-data-Analysis---Live-Dashboard)**  
   * **Tech Stack:** Python, Streamlit, Pandas, Plotly Express  
   * **Overview:** Transforms 175,000+ records into executive-level GMV performance, brand matrices, and diagnostic insights. ([Live App Link](https://amazon-e-commerce-data-analysis---live-dashboard-ejfcuxjnxrfky.streamlit.app/))
+  
+*(More production projects coming soon...)*
 
 ---
 
-### 📚 2. PW Skills Data Science Track
-*Structured modules, case studies, and notebooks from my professional upskilling.*
-
-* **[PW-Skills-Data-Science-Portfolio](https://github.com/ShashwatMisra008)** *(Will populate as you add coursework)*
-  * **Focus Areas:** Advanced Python, Exploratory Data Analysis (EDA), Statistics, and Machine Learning.
-
----
-
-### 🛠️ 3. Add-On Practice & Skill Labs
-*Targeted practice sets, SQL query repositories, and technical sandbox exercises.*
-
-* **SQL & Excel Practice Repositories:** Includes your `SQL-Retail-Sales-Analytics`, `Corporate-Sales-Excel-Dashboard`, and `Excel---Sales-Dataset` repositories.
+### 🏆 Key Achievements & Impact
+* **Revenue & Growth:** Achieved 34% revenue growth through data-backed portfolio allocation and strategic investment recommendations[cite: 1].
+* **Efficiency & Automation:** Enhanced reporting speeds by 40% and boosted overall team operational efficiency by 25% via automated dashboards and workflow optimization[cite: 1].
+* **Retention & Workforce Analytics:** Improved customer retention visibility and effectiveness by up to 18%-30%[cite: 1], while cutting operational absenteeism by 15% through attendance analytics[cite: 1].
 
 ---
 
 ### 📜 Certifications
-* **Data Science (Pursuing, June Batch)** – *PW Skills*
-* **Master's Certification in Data Analytics** – *Simplilearn*
-* **Certification in Web Page Designing** – *Disha Computer Institute*
-* **C & C++ Certification** – *Universal Network of InfoTech*
+* **Master's Certification in Data Analytics** – *Simplilearn*[cite: 1]
+* **Data Science (Pursuing)** – *PW Skills*[cite: 1]
+* **Certification in Web Page Designing** – *Disha Computer Institute*[cite: 1]
+* **C & C++ Certification** – *Universal Network of InfoTech*[cite: 1]
 
 ---
 
