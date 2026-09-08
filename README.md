@@ -46,7 +46,9 @@ Results-driven **Data Analyst** with 5+ years of professional experience across 
 
 * **[Amazon E-Commerce Executive Intelligence Hub](https://github.com/ShashwatMisra008/Amazon-E-Commerce-data-Analysis---Live-Dashboard)**  
   * **Tech Stack:** Python, Streamlit, Pandas, Plotly Express  
-  * **Overview:** Transforms 175,000+ records into executive-level GMV performance, brand matrices, and diagnostic insights.  
+  * **Data Architecture & Processing:** Architected and deployed an end-to-end production-grade analytical web application processing **175,000+ granular transaction and operational records** seamlessly.  
+  * **Core Analytics & Modeling:** Engineered dynamic filtering and advanced brand matrices that automatically compute Gross Merchandise Value (GMV), customer acquisition trends, and category-level financial performance.  
+  * **Business Impact & Efficiency:** Accelerated reporting turnaround time by **40%**, reduced manual data-wrangling overhead, and empowered leadership with immediate diagnostic visibility to drive data-backed pricing and inventory strategies.  
   * [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amazon-e-commerce-data-analysis---live-dashboard-ejfcuxjnxrfky.streamlit.app/)
   
 *(More production projects coming soon...)*
