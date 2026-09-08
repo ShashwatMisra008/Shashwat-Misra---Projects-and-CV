@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-Detail-oriented **Data Analyst** with over five years of experience transforming complex operational, marketing, and financial datasets into actionable executive intelligence[cite: 1, 2]. I specialize in building end-to-end analytics pipelines and have a proven track record of driving measurable business outcomes—including generating a **34% revenue growth**, a **25% improvement in operational efficiency**, and a **40% enhancement in reporting speed**[cite: 2]. 
+Detail-oriented **Data Analyst** with over five years of experience transforming complex operational, marketing, and financial datasets into actionable executive intelligence. I specialize in building end-to-end analytics pipelines and have a proven track record of driving measurable business outcomes—including generating a **34% revenue growth**, a **25% improvement in operational efficiency**, and a **40% enhancement in reporting speed**. 
 
 ---
 
@@ -38,23 +38,23 @@ Detail-oriented **Data Analyst** with over five years of experience transforming
 
 #### 🔄 Customer Retention & Churn Prediction
 > **Tech Stack:** Python, Power BI
-* Conducted advanced churn prediction and customer retention analysis[cite: 2]. 
-* Created dynamic Power BI dashboards to monitor customer health metrics, ultimately improving retention strategy effectiveness by **18%**[cite: 2].
+* Conducted advanced churn prediction and customer retention analysis. 
+* Created dynamic Power BI dashboards to monitor customer health metrics, ultimately improving retention strategy effectiveness by **18%**.
 
 #### 📈 Marketing Performance & GTM Dashboard
 > **Tech Stack:** Tableau, SQL (MySQL)
-* Built an interactive Tableau dashboard connected to MySQL databases to visualize CTR, CAC, ROI, and conversion metrics in real-time[cite: 2].
-* Automated legacy data workflows, improving overall reporting efficiency by **40%**[cite: 2].
+* Built an interactive Tableau dashboard connected to MySQL databases to visualize CTR, CAC, ROI, and conversion metrics in real-time.
+* Automated legacy data workflows, improving overall reporting efficiency by **40%**.
 
 #### 💼 Operational Sales Analytics
 > **Tech Stack:** Advanced Excel, Tableau, Power BI
-* Developed forecasting models and centralized KPI dashboards to identify revenue opportunities and automate corporate reporting workflows[cite: 2].
-* Analyzed workforce data to optimize scheduling, reducing absenteeism by **15%**[cite: 2].
+* Developed forecasting models and centralized KPI dashboards to identify revenue opportunities and automate corporate reporting workflows.
+* Analyzed workforce data to optimize scheduling, reducing absenteeism by **15%**.
 
 ---
 
 ### 📜 Certifications
-* **Master's Certification in Data Analytics** – *Simplilearn*[cite: 2]
+* **Master's Certification in Data Analytics** – *Simplilearn*
 
 ---
 
