@@ -13,19 +13,25 @@ Detail-oriented **Data Analyst** with over five years of experience transforming
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Core Competencies
 
 **Languages & Databases:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **BI, Visualization & Analytics:**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Data & Business Analytics Capabilities:**
+* **Analytics & Strategy:** GTM Analytics, Marketing Analytics, Sales Performance Analytics, E-commerce Optimization.
+* **Reporting & Modeling:** KPI Reporting & Dashboard Development, Forecasting & Predictive Analytics, Budgeting.
+* **Customer & Operations:** Customer Retention Analytics, Process Optimization, Data Cleaning & Transformation.
 
 ---
 
